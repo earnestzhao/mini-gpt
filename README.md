@@ -22,13 +22,13 @@
 
 ## 最近更新 Latest Update
 
-*2026 年 11 月 6 日*
+*2026 年 11 月 7 日*
 
-*v0_02 Tokenizer 的原理与实现*
+*v0_03 Embedding：理解与实现*
 
-*November 6, 2026*
+*November 7, 2026*
 
-*v0_02 Understanding and Implementing a Tokenizer*
+*v0_03 Understanding and Implementing Embedding*
 
 ## 文章目录 Articles
 
@@ -36,6 +36,7 @@
 
 1. [一个完整的 LLM 由哪些部分组成](docs/v0_01.zh_CN.md)
 2. [Tokenizer 的原理与实现](docs/v0_02.zh_CN.md)
+3. [Embedding：理解与实现](docs/v0_03.zh_CN.md)
 
 *未完待续……*
 
@@ -43,6 +44,7 @@
 
 1. [What Are the Main Components of a Complete LLM?](docs/v0_01.md)
 2. [Understanding and Implementing a Tokenizer](docs/v0_02.md)
+3. [Understanding and Implementing Embedding](docs/v0_03.md)
 
 *To be continued...*
 
