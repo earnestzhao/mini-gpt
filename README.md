@@ -22,13 +22,13 @@
 
 ## 最近更新 Latest Update
 
-*2026 年 11 月 7 日*
+*2026 年 11 月 13 日*
 
-*v0_03 Embedding：理解与实现*
+*v0_05 Embedding：向量点积、线性变换与矩阵乘法*
 
-*November 7, 2026*
+*November 13, 2026*
 
-*v0_03 Understanding and Implementing Embedding*
+*v0_05 Vector Dot Products, Linear Transformations, and Matrix Multiplication*
 
 ## 文章目录 Articles
 
@@ -37,6 +37,8 @@
 1. [一个完整的 LLM 由哪些部分组成](docs/v0_01.zh_CN.md)
 2. [Tokenizer 的原理与实现](docs/v0_02.zh_CN.md)
 3. [Embedding：理解与实现](docs/v0_03.zh_CN.md)
+4. (Placeholder) 番外篇：静态 Embedding
+5. [向量点积、线性变换与矩阵乘法](docs/v0_05.zh_CN.md)
 
 *未完待续……*
 
@@ -45,6 +47,8 @@
 1. [What Are the Main Components of a Complete LLM?](docs/v0_01.md)
 2. [Understanding and Implementing a Tokenizer](docs/v0_02.md)
 3. [Understanding and Implementing Embedding](docs/v0_03.md)
+4. (Placeholder) Bonus Chapter: Static Word Embeddings
+5. [Vector Dot Products, Linear Transformations, and Matrix Multiplication](docs/v0_05.md)
 
 *To be continued...*
 
